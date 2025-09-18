@@ -21,13 +21,12 @@ The goal of the challenge is to **analyze the binary** and find the correct pass
 ```   bash
       "chmod +x calculator"
 3. Run the binary:
+```   bash
       "./calculator"
 4. Use the calculator normally for basic arithmetic.
 5. To trigger the hidden functionality, input:
+```   bash
      "77 + 88"
-
-
-
 
 FOR EDUCATIONAL PURPOUSE
 
